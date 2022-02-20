@@ -1,0 +1,15 @@
+{
+  "name": "ialien",
+  "version": "1.0.0",
+  "description": "IAlient boilerplate simple html with scss and css variables",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itay Haephrati",
+  "license": "ISC",
+  "dependencies": {
+    "blingblingjs": "^2.3.0",
+    "canvas-confetti": "^1.5.1"
+  }
+}
